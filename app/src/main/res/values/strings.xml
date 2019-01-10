@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sampath LIC Advisor</string>
+    <string name="splash_screen_img">Splash screen img</string>
+    <string name="mail">Mail Me : info@bangalorelicinsurance.com</string>
+    <string name="contact">Contact : 9964200955</string>
+    <string name="thank_you">THANK YOU</string>
+    <string name="exit">EXIT</string>
+</resources>
